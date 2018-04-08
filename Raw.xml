@@ -273,7 +273,7 @@
                       <shadow type="math_number" id="NxI4W6P)%aS~YX^5:fm(">
                         <field name="NUM">3.1</field>
                       </shadow>
-                      <block type="math_arithmetic" id="a52-x:2(jo3fN-]co/k]">
+                      <block type="math_arithmetic" id="a52-x:1.8(jo3fN-]co/k]">
                         <field name="OP">MULTIPLY</field>
                         <value name="A">
                           <shadow type="math_number" id="1IiDMd{pA4I8#Jv5:v)F">
